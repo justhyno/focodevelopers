@@ -34,7 +34,7 @@
                             Checked out at <t t-esc="widget.attendance.check_out_time"/>
                         </h1>
                         <h2 class="o_hr_attendance_message_message">
-                            Goodbye <t t-esc="widget.employee_name"/>
+                            Txau <t t-esc="widget.employee_name"/>
                             <br/>
                         </h2>
                         <strong>Task - <p t-esc="widget.task"/></strong>
@@ -47,7 +47,7 @@
                             Checked in at <t t-esc="widget.attendance.check_in_time"/>
                         </h1>
                         <h2 class="o_hr_attendance_message_message">
-                            Welcome <t t-esc="widget.employee_name"/>
+                            Bem vindo <t t-esc="widget.employee_name"/>
                             <br/>
                         </h2>
                         <strong>Task - <p t-esc="widget.task"/></strong>
