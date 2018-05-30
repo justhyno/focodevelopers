@@ -2,3 +2,8 @@
 	path = OCA/vertical-agriculture
 	url = git@github.com:OCA/vertical-agriculture.git
 	branch = 11.0
+
+[submodule "OCA/sale-workflow"]
+	path = OCA/sale-workflow
+	url = git@github.com:OCA/sale-workflow.git
+	branch = 11.0
