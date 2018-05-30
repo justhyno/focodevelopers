@@ -1,0 +1,4 @@
+[submodule "OCA/vertical-agriculture"]
+	path = OCA/vertical-agriculture
+	url = git@github.com:OCA/vertical-agriculture.git
+	branch = 11.0
